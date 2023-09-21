@@ -6,3 +6,6 @@ OpenCV-Lite.sh
 
 # Changing to a Stable Mirror for updates
 systemUpdateRpi2.sh
+
+# Installing TP-Link WN823N Drivers
+wifi-adapter-wn823n.sh
